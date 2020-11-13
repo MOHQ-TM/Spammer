@@ -81,6 +81,11 @@ def spammer():
 
 				pyautogui.typewrite(word)
 				pyautogui.press('Enter')
+			
+			if a == amount :
+				os.system('clear')
+				print (color.BLUE + "it's done!! goodbye")
+			
 
 
 	except :
