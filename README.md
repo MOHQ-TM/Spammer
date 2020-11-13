@@ -8,7 +8,7 @@ A tool for Spamm anybody anywhere.
 
 ## Install and run
 ```bash
-git clone https://github.com/MOHQ-TM/Admin_Panel_Finder.git
+git clone https://github.com/MOHQ-TM/Spammer.git
 cd Spammer
 chmod +x install.sh
 ./install.sh
