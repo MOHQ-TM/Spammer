@@ -16,7 +16,7 @@ python3 spammer.py
 ```
 
 ## Video Tutorial
-[How to use Admin Finder](https://uupload.ir/files/74v7_untitled-project.gif)
+[How to use Spammer](https://uupload.ir/view/hn27_spammer.mp4)
 
 ## Contact us
 - Telegram Channel : [@Hamiyan_Haj_Qassem](https://t.me/Hamiyan_Haj_Qassem)
