@@ -15,6 +15,9 @@ chmod +x install.sh
 python3 spammer.py
 ```
 
+## Note
+its doesnt work on mobile or tablet
+
 ## Video Tutorial
 [How to use Spammer](https://uupload.ir/files/mywm_spammer.gif)
 
