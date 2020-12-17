@@ -58,7 +58,7 @@ def spammer():
 		tl=10
 
 		#print time and text
-		while tl>0 :
+		while tl>=0 :
 			
 			banner()
 			print(color.YELLOW + "Your Text ==>> " + color.MAJENTA , text)
