@@ -24,7 +24,7 @@ def banner():
     print('██║ ╚═╝ ██║╚██████╔╝██║  ██║╚██████╔╝       ██║   ██║ ╚═╝ ██║')
     print('╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚══▀▀═╝        ╚═╝   ╚═╝     ╚═╝')
     print(color.GREEN + '                            ************************************')
-    print('                            ** Telegram : @Hamiyan_Haj_Qassem **')
+    print('                            ** Telegram : @MOHQ_Team **')
     print('                            **     Email : mohq@gmail.com     **')
     print('                            ************************************')
     print('Exit : ctrl+c')
